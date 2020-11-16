@@ -1,4 +1,4 @@
-# 03inclass-NumberWizard-schiderf
+# 03inclass-NumberWizard-SZwingenberger
 
 ### Project description: 
 The goal is to create a Number guessing game called Number Wizard, where the computer guesses your chosen number through simple maths
@@ -25,4 +25,4 @@ Unity Template for Unity202015f1 (2D)
 
 ### Lessons Learned: 
 
-Copyright by Schider Felix
+Copyright by Stefanie Zwingenberger
