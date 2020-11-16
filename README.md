@@ -4,7 +4,7 @@
 The goal is to create a Number guessing game called Number Wizard, where the computer guesses your chosen number through simple maths
 
 ### Development platform: 
-MacOS, Unity 202015f1, Visual Studio Code
+Windows 10, Unity 2020.1.5f, Visual Studio 2019
 
 ### Target platform: 
 WebGL
